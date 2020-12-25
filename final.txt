@@ -1,0 +1,49 @@
+안녕하세요 박성빈 교수님
+
+
+
+교수님의 알고리즘 수업을 듣는 컴퓨터학과 2018320161 송대선이라고 합니다.
+
+
+
+
+
+final homework로 10가지 질문들을 제출합니다.
+
+
+
+질문의 내용은 다음과 같습니다.
+
+
+
+
+
+1. If you don`t mind, would you explain the accurate notion "fully parenthaize"?
+
+2. What is the accurate definition of "NP" problem set?
+
+3. What is the accurate definition of "Hyperplain"?
+
+4. Where is the "Hyperplain" used?
+
+5. What does mean "Activity a_m, is used in some maximum-size subset of mutually compatible activities of S_ij." 
+
+   of "Greedy choice property of the activity selection problem - theorem 16.1"?
+
+   -> 스스로 아무리 생각해보아도 잘 모르겠습니다 ㅠㅠㅠㅠ 한글 설명이 가능하시다면 설명해주시면 너무 감사드리겠습니다 ㅠㅠㅠㅠ
+
+   -> 특히 "maximum-size subset of mutually compatible activities"이 의미하는 바가 무엇인지를 모르겠습니다.
+
+6. would you prove that 0/1 knapsack problem can be solved by greedy algorithm?
+
+7. would you prove that fractional knapsack problem can be solved by greedy algorithm? why?
+
+
+
+
+
+항상 감사드립니다.
+
+
+
+송대선 올림
